@@ -112,6 +112,11 @@ main{
     cursor: pointer;
 }
 
+.gorjeta .botao-ativo{
+    background-color: var(--light-green);
+    color: var(--green-800);
+}
+
 .gorjeta #outra{
     width: 100%;
     background-color: var(--green-100);
